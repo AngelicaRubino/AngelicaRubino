@@ -3,9 +3,10 @@
 <h2>Olá, eu sou Angélica ☽</h2>
 
 <p>
-Sou estudante de Análise e Desenvolvimento de Sistemas e busco oportunidade para iniciar na área de QA.<br>
-Atualmente curso Desenvolvimento Fullstack IA na Jynx Educação e estou buscando consolidar meu conhecimento técnico em programação e automação.<br>
-Conhecer a lógica por trás do código me permite antecipar falhas e garantir a consistência técnica em cada entrega, tendo a certeza de concluir projetos de softwares estáveis e com a devida garantia de qualidade.
+Graduanda em Análise e Desenvolvimento de Sistemas e aluna Dev Fullstack IA da Jynx Educação. Tenho conhecimento acadêmico e de projetos práticos em lógica de programação, HTML, CSS e Javascript. Conhecimentos introdutórios em testes de software e escrita de casos de teste BDD (Gherkin).
+<br>
+<br>
+Tenho sólida experiência em âmbito administrativo e financeiro, onde desenvolvi um olhar analítico rigoroso, competência que hoje direciono para a garantia de excelência e estabilidade de aplicações digitais.
 </p>
 
 ---
